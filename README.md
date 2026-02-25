@@ -1,9 +1,29 @@
 ## Bem-vindo(a)s ao meu perfil
 
- <div>
-   <a href="https://github.com/GenesonFerreira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GenesonFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenesonFerreira&layout=compact&langs_count=6&theme=tokyonight"/>
+Estudante de Gestão da Tecnologia da Informação e realizando uma pós em Desenvolvimento de Software para Web, ambas na UNIESP
+
+Posso dizer que sou uma pessoa extremamente interessado pelo mundo da programação e desenvolvimento de sistemas, e em como podemos usar isso para resolver problemas.
+
+Através da graduação e da pós estou tendo a oportunidade de desenvolver importantes habilidades para a área, com foco em desenvolvimento full stack, como forte aliada ultilizo a linguagem Java, ultilizando o Spring como framework para criação de back ends forte e bem estruturados. Na parte de front, estou sempre buscando me aperfeiçoando com o framework Angular.
+
+Com comprometimento em aprendizado continuo e altas habilidades de resolução de problemas, busco 
+utilizar cada experiência profissional como oportunidade de crescimento. Tenho como marca a superação de desafios com atitude colaborativa, espírito inovador e foco em contribuir de forma altruísta para o sucesso coletivo.
+
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GenesonFerreira&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenesonFerreira&layout=compact&theme=tokyonight"/>
+</div>
+
+![Geneson Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenesonFerreira&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GenesonFerreira&theme=tokyonight)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GenesonFerreira&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenesonFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 <div style="display: inline_block"><br>
